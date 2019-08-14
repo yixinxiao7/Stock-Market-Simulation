@@ -1,0 +1,9 @@
+Deploying troops...
+General 1's battalion attacked General 2's battalion on planet 0. 22 troops were lost.
+General 2's battalion attacked General 2's battalion on planet 0. 48 troops were lost.
+General 1's battalion attacked General 2's battalion on planet 1. 30 troops were lost.
+General 1's battalion attacked General 2's battalion on planet 1. 34 troops were lost.
+General 1's battalion attacked General 2's battalion on planet 1. 36 troops were lost.
+General 1's battalion attacked General 0's battalion on planet 1. 4 troops were lost.
+---End of Day---
+Battles: 6

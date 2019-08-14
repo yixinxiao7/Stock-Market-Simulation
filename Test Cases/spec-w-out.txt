@@ -1,0 +1,8 @@
+Deploying troops...
+---End of Day---
+Battles: 6
+---Movie Watcher---
+A movie watcher would enjoy an ambush on planet 0 with Sith at time 0 and Jedi at time 2.
+A movie watcher would enjoy an attack on planet 0 with Jedi at time 2 and Sith at time 3.
+A movie watcher would enjoy an ambush on planet 1 with Sith at time 1 and Jedi at time 4.
+A movie watcher would enjoy an attack on planet 1 with Jedi at time 4 and Sith at time 4.
